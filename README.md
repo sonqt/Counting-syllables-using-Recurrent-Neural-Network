@@ -4,4 +4,5 @@ This is my individual final project in the class CS 111 (Discovering Computer Sc
 For this project, I utilized a bidirectional LSTM algorithm to accurately predict the number of syllables present in a given word. 
 ## Problem Illustraion:
 Input: Denison
+
 Output: 3
